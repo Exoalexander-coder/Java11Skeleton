@@ -1,0 +1,68 @@
+Name: Alexander Shariff-Vetter
+
+
+1.  Byte Code: data that has been compiled Source Code: The base template of a computer program 
+
+2. A Section of a program that describes an object
+
+3. Where the Java Virtual Machine starts running
+
+4.  A sequence of characters 
+
+5. Yes
+
+6. A piece of code that can't be understood by the compiler
+
+7. Prints whatever you want too
+
+8. 
+
+public class Hello
+{
+  public static void main ( String[] args )
+  {
+    System.out.println("Hello World!");
+  }
+}
+
+
+9. 
+public class Emily
+{
+  public static void main ( String[] args )
+  {
+    System.out.println("A bird came down the walk:");
+    System.out.println("He did not know I saw;");
+    System.out.println("He bit an angle-worm in halves");
+    System.out.println("And ate the fellow, raw.");
+  }
+
+10. 
+Hello Mercury!
+Hello Venus!
+Hello Earth!
+Hello Mars!
+Hello Jupiter!
+Hello Saturn!
+Hello Uranus!
+Hello Neptune!
+Hello Pluto!11.
+
+
+11.   q
+
+
+12. 
+
+13.
+
+14.
+a.
+b.
+
+15.
+
+16.
+
+17.
+
