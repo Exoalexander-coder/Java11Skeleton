@@ -46,23 +46,22 @@ Hello Jupiter!
 Hello Saturn!
 Hello Uranus!
 Hello Neptune!
-Hello Pluto!11.
+Hello Pluto.
 
 
-11.   q
+11. Byte, short ,int, long, float, double, char, bootlean
 
 
-12. 
+12. Long
 
-13.
+13. Double
 
-14.
-a.
-b.
+14.  
+a. Int
+b. Double
 
-15.
+15. 19345
 
-16.
+16. Represents a. Single character 
 
-17.
-
+17. true or false
