@@ -1,38 +1,39 @@
 Assignment 5
-Name:
+Name: Alexander Shariff-Vetter
 
-1.
+1. System.out
 
-2.
+2. System.out.println
 
-3.
+3. import java.util.Scanner;4.
 
-4.
+5. 
+    5.1. Scanner scan = new Scanner( System.in );
 
-5.
-    5.1.
+    5.2. System.out.println("Enter your name:");
 
-    5.2.
+    5.3. inData = scan.nextLine();
 
-    5.3.
+6. inData = dog.nextLine()6.   
 
-6.
-
-7.
+7.   inData = dog.nextLine();
 
 8. This is in NameEcho.java
 
 9. This is in NameEchoAlt.java
 
-10.
+10. NextInt()
 
 11.
-    11.1.
+    11.1. The square of 46 is 2116
+    
+    11.2. output overflow
 
-    11.2.
-
-    11.3.
+    11.3. use a long data type
 
 12. This is in AddThree.java
 
-13. 
+13. 12
+17 / 12 is 1
+17 % 12 is 5
+1 * 12 + 5 is 17
