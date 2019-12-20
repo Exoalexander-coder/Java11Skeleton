@@ -1,24 +1,24 @@
 Assignment 7
-Name:
+Name: Alexander Shariff-Vetter
 
 Chapter 13
 ==========
 
-1.
+1. nothing
 
-2.
+2. we get input exception error
 
-3.
+3. 730
 
-4.
+4. 12.0
 
-5.
+5. modifier for variables
 
-6.
+6. Nan
 
-7.
+7. Not A Number
 
-8.
+8. 
 
 
 Chapter 16
