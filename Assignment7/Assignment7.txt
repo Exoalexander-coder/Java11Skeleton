@@ -18,14 +18,14 @@ Chapter 13
 
 7. Not A Number
 
-8. 
+8. line 1 isn't being casted
 
 
 Chapter 16
 ==========
 
-1.
+1. The curly braces
 
-2.
+2. == is a comparison operator and != the opposite
 
-3.
+3. a nested if statement is a if statement inside of an if statement
